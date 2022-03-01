@@ -1,0 +1,701 @@
+id: P654095A8
+initial_creation_type: input
+source_metadata:
+  title: Kāśyapaparivarta
+  language: zh
+  volumes:
+    3bbe5dd4c9b046a2b58f4767d5f30d9a:
+      title: CIII_§21
+      base_file: CIII_§21.txt
+      work_id: WF5A8B679
+    d2a546a5ec464b9c8d23aeec81d70fcb:
+      title: CIII_§22
+      base_file: CIII_§22.txt
+      work_id: W153EE910
+    29888676610549a7ac236acf549a0c34:
+      title: CIII_§23
+      base_file: CIII_§23.txt
+      work_id: W95AA19C7
+    f27d9b2580ef4d2da20f14262d49102f:
+      title: CIII_§24
+      base_file: CIII_§24.txt
+      work_id: W4C468849
+    8d7fadd8c67d415c8561fb041cc5e52d:
+      title: CIII_§25
+      base_file: CIII_§25.txt
+      work_id: W9B9514B3
+    259c819ba7ec409da0b50e7ebd550bf7:
+      title: CIII_§26
+      base_file: CIII_§26.txt
+      work_id: W10B3AD56
+    870e9321f38648178792e3808e4ac2f2:
+      title: CIII_§27
+      base_file: CIII_§27.txt
+      work_id: W26F86024
+    6ae73b562b064d68ba1094bb20325a95:
+      title: CIII_§28
+      base_file: CIII_§28.txt
+      work_id: W4415FB1F
+    77e5c573219847579eed681420954209:
+      title: CIII_§29
+      base_file: CIII_§29.txt
+      work_id: W7C2686D2
+    dcf4ba2452394cf188ebd7d49d584c24:
+      title: CIII_§30
+      base_file: CIII_§30.txt
+      work_id: W1CEC8CC8
+    076ef7abad854a4f8d5d9fb47d4d7611:
+      title: CII_§11
+      base_file: CII_§11.txt
+      work_id: WD5B86850
+    78e2c3f4fcda40edab1c52ee5ce04f39:
+      title: CII_§12
+      base_file: CII_§12.txt
+      work_id: WAF7053A0
+    2de7d3d225ae4eafb28a82c006efb59c:
+      title: CII_§13
+      base_file: CII_§13.txt
+      work_id: WE936BBDF
+    fe2085cbfb8d440da65afdec528920a7:
+      title: CII_§14
+      base_file: CII_§14.txt
+      work_id: W24438484
+    1e139b4319c842b0b406c82e699b7c10:
+      title: CII_§15
+      base_file: CII_§15.txt
+      work_id: W7B8A4758
+    f908495e537d458380c9bf5608d9a962:
+      title: CII_§16
+      base_file: CII_§16.txt
+      work_id: W784A2BFA
+    e13e2f0ebb4f42bc9eca71ff7310607e:
+      title: CII_§17
+      base_file: CII_§17.txt
+      work_id: W07CF3729
+    24b6b7e8d4814f0193e9188dfba873af:
+      title: CII_§18
+      base_file: CII_§18.txt
+      work_id: WC89CA470
+    50ef144054cb428396e3448213baeafd:
+      title: CII_§19
+      base_file: CII_§19.txt
+      work_id: W9441888B
+    e3e95201aafe4f51894b94db22fd3521:
+      title: CII_§20
+      base_file: CII_§20.txt
+      work_id: WBE749427
+    4c8cd3d06364441bb88cc70e280e89b1:
+      title: CIV_§27
+      base_file: CIV_§27.txt
+      work_id: W0617A302
+    fbc01693f294413f9adb45a87fbfe529:
+      title: CIV_§31
+      base_file: CIV_§31.txt
+      work_id: WFEF4F4BB
+    a04fad54ea234cd39cb2a39fd47ee660:
+      title: CIV_§32
+      base_file: CIV_§32.txt
+      work_id: WD6CDA533
+    702d17227eea47d0b6f35a0bb304b5e2:
+      title: CIV_§33
+      base_file: CIV_§33.txt
+      work_id: WCD703BE6
+    fbe619638bca4e59aaadd3faa649378c:
+      title: CIV_§34
+      base_file: CIV_§34.txt
+      work_id: W955DDAB0
+    0e25b09c04194d85a202eb9f35d86004:
+      title: CIV_§35
+      base_file: CIV_§35.txt
+      work_id: WCC3319BB
+    9b3ff5f7df9b4bb1a8b462d051f8f0f3:
+      title: CIV_§36
+      base_file: CIV_§36.txt
+      work_id: W8787A649
+    8c530464ecd54565bae139cfb586abd4:
+      title: CIV_§38
+      base_file: CIV_§38.txt
+      work_id: W8E83A5E0
+    a73fd7f1f1b946bea56a0569a1601b60:
+      title: CIV_§39
+      base_file: CIV_§39.txt
+      work_id: W4E48F24D
+    8cdcb48ac7fe4b41a9c3ab84af00c6b4:
+      title: CIV_§40
+      base_file: CIV_§40.txt
+      work_id: WB0D044CD
+    f6dc18c35a0b45bbb0930ddbab2037e6:
+      title: CIX_§100
+      base_file: CIX_§100.txt
+      work_id: W0E295E2F
+    3c9ecf35255349d592856e61dc8bfe4b:
+      title: CIX_§91
+      base_file: CIX_§91.txt
+      work_id: W378379AB
+    bfb81cd64dc5452da21c990251fc7039:
+      title: CIX_§92
+      base_file: CIX_§92.txt
+      work_id: W6EE4688A
+    eafb9276ce0f46e58278a71e04db5145:
+      title: CIX_§93
+      base_file: CIX_§93.txt
+      work_id: W933F5D64
+    fc858d7f26e54cd796ce5efa07450e87:
+      title: CIX_§94
+      base_file: CIX_§94.txt
+      work_id: WB19D1749
+    e53af882d681418a935eada714c55e08:
+      title: CIX_§95
+      base_file: CIX_§95.txt
+      work_id: W9976C765
+    a19b621949d343c6901f94b25a61a6f6:
+      title: CIX_§96
+      base_file: CIX_§96.txt
+      work_id: WD650F163
+    be0b7f74e8f5470a8e6e847a8a0a53d3:
+      title: CIX_§97
+      base_file: CIX_§97.txt
+      work_id: W8C74C45E
+    a6250818815f407981b425991fce7e86:
+      title: CIX_§98
+      base_file: CIX_§98.txt
+      work_id: W59390941
+    bf1a2438739840e395c9b224d646a328:
+      title: CIX_§99
+      base_file: CIX_§99.txt
+      work_id: WD2AD64BB
+    e105414b83fe49459736133b63e69a60:
+      title: CI_§0
+      base_file: CI_§0.txt
+      work_id: WE111827E
+    a53339f9939648f7a9171267f8d35ac3:
+      title: CI_§1
+      base_file: CI_§1.txt
+      work_id: W77C1622F
+    57246c8075ac45d881db4f95774caed4:
+      title: CI_§10
+      base_file: CI_§10.txt
+      work_id: WB2F92D7D
+    6bc8c00fdc5245f38d0cced36d62c705:
+      title: CI_§2
+      base_file: CI_§2.txt
+      work_id: WEF274C3B
+    32d3e58d80a44940b82f25ab0748cb11:
+      title: CI_§3
+      base_file: CI_§3.txt
+      work_id: WBD4CD027
+    45a0c775a87a4aac9d9c85d4bfae68db:
+      title: CI_§4
+      base_file: CI_§4.txt
+      work_id: WDDD61144
+    785b8c7778b04df6afad3d22de0946df:
+      title: CI_§5
+      base_file: CI_§5.txt
+      work_id: W77594CA5
+    fdc8702135634f57be71ba22035fe302:
+      title: CI_§6
+      base_file: CI_§6.txt
+      work_id: WB5439999
+    0c1cb628f13c4c2db3455b80412b9ed6:
+      title: CI_§7
+      base_file: CI_§7.txt
+      work_id: W1196A7A3
+    5278422735b84ad1a1af50ab873b760b:
+      title: CI_§8
+      base_file: CI_§8.txt
+      work_id: W3E170744
+    4edcbe8948f24d27835667692a16ce45:
+      title: CI_§9
+      base_file: CI_§9.txt
+      work_id: W9A841BBA
+    ae159de01d9e48d88a5bfe345b85732b:
+      title: CVIII_§81
+      base_file: CVIII_§81.txt
+      work_id: W65F8CA52
+    5b595f42b4204722b8e57fd94dd8ce69:
+      title: CVIII_§82
+      base_file: CVIII_§82.txt
+      work_id: WC527C0A5
+    82a580ec3ed34f49bf938e14621fdd64:
+      title: CVIII_§83
+      base_file: CVIII_§83.txt
+      work_id: W770F4C32
+    588f7a29c65a45e88542e543f59aecd8:
+      title: CVIII_§84
+      base_file: CVIII_§84.txt
+      work_id: W840F2FC3
+    cfded7b82fd849f29a25891fbf49d105:
+      title: CVIII_§85
+      base_file: CVIII_§85.txt
+      work_id: WED49DB32
+    8b426b573d1e460c9a4269ff3eaf65cb:
+      title: CVIII_§86
+      base_file: CVIII_§86.txt
+      work_id: W84FE795E
+    2f4981c85423447487c527ef2fdb59db:
+      title: CVIII_§87
+      base_file: CVIII_§87.txt
+      work_id: WBE9577B3
+    026cd7c1595945a08cb58b68172c5630:
+      title: CVIII_§88
+      base_file: CVIII_§88.txt
+      work_id: W8104A608
+    26be6828fabf42ccb285556eafe24410:
+      title: CVIII_§89
+      base_file: CVIII_§89.txt
+      work_id: W79A09777
+    a8a9ceafc14c4c1ca50dc2a141dcfdea:
+      title: CVIII_§90
+      base_file: CVIII_§90.txt
+      work_id: W37247A57
+    04e4eab3b5314fb6bf702ce5a31bbb8d:
+      title: CVII_§71
+      base_file: CVII_§71.txt
+      work_id: W8D484D5D
+    3c38ed8ee5bc49b1a94482ff74563bfd:
+      title: CVII_§72
+      base_file: CVII_§72.txt
+      work_id: W6DC5D566
+    32ca70e21af84871ba0ed4d3e5acdc5d:
+      title: CVII_§73
+      base_file: CVII_§73.txt
+      work_id: W0B9B03B8
+    22c11f6c68914815a8bea7b963e9239f:
+      title: CVII_§74
+      base_file: CVII_§74.txt
+      work_id: W641E4974
+    9cdfed160f3e4760995c881cdc47cbc7:
+      title: CVII_§75
+      base_file: CVII_§75.txt
+      work_id: W6469E303
+    705bec3dc8d34ccd9f0b2314caf9f338:
+      title: CVII_§76
+      base_file: CVII_§76.txt
+      work_id: W8404E260
+    10402d09fd30433a94bfddc4751940c2:
+      title: CVII_§77
+      base_file: CVII_§77.txt
+      work_id: W22F10CCA
+    478afef0fa7945fca2f2f6d4a92078b2:
+      title: CVII_§78
+      base_file: CVII_§78.txt
+      work_id: W2BF49311
+    0783c3ad7ac340c09ae213ffd1d190e1:
+      title: CVII_§79
+      base_file: CVII_§79.txt
+      work_id: W87D1881F
+    8e36aeffa53d4f0db99d4ae49a66802d:
+      title: CVII_§80
+      base_file: CVII_§80.txt
+      work_id: W16C88AD1
+    043766deacf440d891134b9a1d57e45a:
+      title: CVI_§61
+      base_file: CVI_§61.txt
+      work_id: WB240B1A4
+    79d92ba17d724afd9225c77f9bfd3efb:
+      title: CVI_§62
+      base_file: CVI_§62.txt
+      work_id: WD0010510
+    a4cab7eb7d1548ef9eb9d5fe7a5f250a:
+      title: CVI_§63
+      base_file: CVI_§63.txt
+      work_id: W1CD0074B
+    e03ac889a27548d39b45fd6752543664:
+      title: CVI_§64
+      base_file: CVI_§64.txt
+      work_id: WA5574A41
+    4f82e882d75b45c99e6d08b3d71de815:
+      title: CVI_§65
+      base_file: CVI_§65.txt
+      work_id: W36791F22
+    29a6d61ed4734dd5834e5311c64c123f:
+      title: CVI_§66
+      base_file: CVI_§66.txt
+      work_id: WBB7B141D
+    9c11256edc4847dcb7d375b6d54cebb0:
+      title: CVI_§67
+      base_file: CVI_§67.txt
+      work_id: W46448848
+    dd4880efa6764802adf9ad986c6a92ca:
+      title: CVI_§68
+      base_file: CVI_§68.txt
+      work_id: W55F2DBD5
+    496ec862de7c4e6db5f469012c8330e6:
+      title: CVI_§69
+      base_file: CVI_§69.txt
+      work_id: WB6F81156
+    9eb32b810ac34188aa4498966e5cffde:
+      title: CVI_§70
+      base_file: CVI_§70.txt
+      work_id: WBD8D0CBF
+    77ea034e4a254fd5ac40b17354ac918e:
+      title: CV_§41
+      base_file: CV_§41.txt
+      work_id: WB69B2603
+    889afd726d2d4c4f8e518e77c0cf580a:
+      title: CV_§42
+      base_file: CV_§42.txt
+      work_id: W614F85F8
+    52a7757ce6294a9caa4bbe0cee64964e:
+      title: CV_§43
+      base_file: CV_§43.txt
+      work_id: W455F555A
+    361dadd283944d4dbcea9547f6d58c25:
+      title: CV_§44
+      base_file: CV_§44.txt
+      work_id: W4C41B379
+    82bf9cdb2ee348de81a64ebf1047fabd:
+      title: CV_§45
+      base_file: CV_§45.txt
+      work_id: WFD46C5DC
+    1bc3db70cefe4e7795ac3b7850ec4dc0:
+      title: CV_§46
+      base_file: CV_§46.txt
+      work_id: W0955FEE8
+    858a7c678ac24f03a2fe0f55f831a5fc:
+      title: CV_§47
+      base_file: CV_§47.txt
+      work_id: W533311B5
+    7e95a05dd37c4e60ad9d2a00b7a7bdce:
+      title: CV_§48
+      base_file: CV_§48.txt
+      work_id: W1D1C7271
+    962e621ccd444961ac7f6e77b4ba30a9:
+      title: CV_§49
+      base_file: CV_§49.txt
+      work_id: W20D2FA8C
+    2b1f80a0508e499e841c98ae8abfce90:
+      title: CV_§50
+      base_file: CV_§50.txt
+      work_id: W9A2059BF
+    2eb70fbe91994fb1afd62cfa22885a8e:
+      title: CV_§51
+      base_file: CV_§51.txt
+      work_id: W4808DF3E
+    c814a9c4a346460ba903cf43cdc67352:
+      title: CV_§52
+      base_file: CV_§52.txt
+      work_id: WB420AAA1
+    4c189fa0a2264f0ababdc0e6ba1eae95:
+      title: CV_§53
+      base_file: CV_§53.txt
+      work_id: WC09B4BD4
+    ea43e655b70f42af8547d8c600ae9f43:
+      title: CV_§54
+      base_file: CV_§54.txt
+      work_id: W7848AC6D
+    9b47780a17644c9d944b31858aa56581:
+      title: CV_§55
+      base_file: CV_§55.txt
+      work_id: WA0DCCDD8
+    5448b95f5d6c46428ce89a7d7b69b71d:
+      title: CV_§56
+      base_file: CV_§56.txt
+      work_id: WEEE56B16
+    a57b48f7060e4360b35d7e92b5f6dd2f:
+      title: CV_§57
+      base_file: CV_§57.txt
+      work_id: WD422ADEF
+    0cf0c0bee4b447299132285ccc899460:
+      title: CV_§58
+      base_file: CV_§58.txt
+      work_id: W89D54C69
+    7708d407de4f49d89edc81b7c915ac0f:
+      title: CV_§59
+      base_file: CV_§59.txt
+      work_id: WC1F63FA6
+    57f16c1d99214e2fa4e8d57d13653402:
+      title: CV_§60
+      base_file: CV_§60.txt
+      work_id: WFC0A0C48
+    85e4c5831a2348edad3ac57fe8a7313e:
+      title: CXIII_§131
+      base_file: CXIII_§131.txt
+      work_id: W726EE920
+    10247f5fbd8e4db7b8195a0a3526d568:
+      title: CXIII_§132
+      base_file: CXIII_§132.txt
+      work_id: WD1241E8B
+    e93bbef07a314d6f9638aa3eb2b6e76c:
+      title: CXIII_§133
+      base_file: CXIII_§133.txt
+      work_id: WA2A44043
+    ffd35b7640c9410a885bf5f0dd806f62:
+      title: CXIII_§134
+      base_file: CXIII_§134.txt
+      work_id: WC89C19B2
+    1e72fb52b36b41baa62e7f9fa0e19e76:
+      title: CXIII_§135
+      base_file: CXIII_§135.txt
+      work_id: W8DFD2278
+    33b3ed946fc240d88e640ed16ab755f8:
+      title: CXIII_§136
+      base_file: CXIII_§136.txt
+      work_id: WCDEEB6BE
+    edd695fbdf224fe2941505e4c499adce:
+      title: CXIII_§137
+      base_file: CXIII_§137.txt
+      work_id: W391A8311
+    3ca464a4b27e49618967b814af6776d1:
+      title: CXIII_§138
+      base_file: CXIII_§138.txt
+      work_id: W45489A1D
+    3962adc3474c48ff91ab37ee565bd01d:
+      title: CXIII_§139
+      base_file: CXIII_§139.txt
+      work_id: W92E489EC
+    8bfb6baddeb148e4b88b50c70f1a7f9f:
+      title: CXIII_§140
+      base_file: CXIII_§140.txt
+      work_id: W6D7B5846
+    04f627a5c4344dc09b3052b5ae9ebc2a:
+      title: CXII_§121
+      base_file: CXII_§121.txt
+      work_id: W5CDE9DD9
+    8bd984e99fd04abb83218a23e6d9e64a:
+      title: CXII_§122
+      base_file: CXII_§122.txt
+      work_id: WA2E424F4
+    3b8778f5156b42228797d266ad163c2e:
+      title: CXII_§123
+      base_file: CXII_§123.txt
+      work_id: WFAAA85F8
+    96eaa1d1556941b1896e3abc445fc03f:
+      title: CXII_§124
+      base_file: CXII_§124.txt
+      work_id: W4897C686
+    20bbe2d67b05491198f183b11a4753bf:
+      title: CXII_§125
+      base_file: CXII_§125.txt
+      work_id: W96489436
+    e93b36ea529b48a39606f877caf43ed2:
+      title: CXII_§126
+      base_file: CXII_§126.txt
+      work_id: W118C607B
+    7ed750e28908436b94a43bb19e793b0c:
+      title: CXII_§127
+      base_file: CXII_§127.txt
+      work_id: WED98DF3A
+    4ef694d7990141658a2bf291bbc06368:
+      title: CXII_§128
+      base_file: CXII_§128.txt
+      work_id: W809AAC28
+    0ebfe38ff73c4fce9261d9609c63ec98:
+      title: CXII_§129
+      base_file: CXII_§129.txt
+      work_id: W5FFBD4FA
+    6106adf882ea4e75b1dbb1b1446ad8ca:
+      title: CXII_§130
+      base_file: CXII_§130.txt
+      work_id: W6BB62035
+    10510a86fa58434fab134a3dbcf93665:
+      title: CXIV_§141
+      base_file: CXIV_§141.txt
+      work_id: W6FF9026F
+    e0428f3a950143aa9bcdeda3dffe70f5:
+      title: CXIV_§142
+      base_file: CXIV_§142.txt
+      work_id: W1591B34D
+    201ebdd9f9394d668df8a92aeb3f413b:
+      title: CXIV_§143
+      base_file: CXIV_§143.txt
+      work_id: W4BAC045A
+    1dccb27d0c9a49d08bee307cef02e2a3:
+      title: CXIV_§144
+      base_file: CXIV_§144.txt
+      work_id: W8D63FA4E
+    141b7082fcd844fdafa320f57c4f3f30:
+      title: CXIV_§145
+      base_file: CXIV_§145.txt
+      work_id: W84D91097
+    3b1c0dc1b0624b48a5394416a209862c:
+      title: CXIV_§146
+      base_file: CXIV_§146.txt
+      work_id: W93C54489
+    155629ee7f5046c38df73004c1563105:
+      title: CXIV_§147
+      base_file: CXIV_§147.txt
+      work_id: W2E9BF9F9
+    749d24ad96514565af5bcd110cf0f88c:
+      title: CXIV_§148
+      base_file: CXIV_§148.txt
+      work_id: W86CEDA95
+    4afcd901b351466b96c9ab599c51bd44:
+      title: CXIV_§149
+      base_file: CXIV_§149.txt
+      work_id: W6AA2429A
+    bc0256e05de34a1ab1e1b58e52501700:
+      title: CXIV_§150
+      base_file: CXIV_§150.txt
+      work_id: W3B8DA53D
+    b10a30001b2d400db1e2169ee263a856:
+      title: CXI_§111
+      base_file: CXI_§111.txt
+      work_id: W04C4FB04
+    e2d0d11143ac4ec88ada97a11b29c51f:
+      title: CXI_§112
+      base_file: CXI_§112.txt
+      work_id: W0322873B
+    f515d28b541a402e883586584f31d6a5:
+      title: CXI_§113
+      base_file: CXI_§113.txt
+      work_id: W25E859FE
+    82cc61903f2149e685ed559452d882d1:
+      title: CXI_§114
+      base_file: CXI_§114.txt
+      work_id: WDD905A8A
+    005b559123e54401b275e46e4d26b8ef:
+      title: CXI_§115
+      base_file: CXI_§115.txt
+      work_id: W5E5B6513
+    650b12c2ecb74a4988bd0436f77ad690:
+      title: CXI_§116
+      base_file: CXI_§116.txt
+      work_id: W6F881F41
+    a1fcc2099c1c4668a694fe7d1eea6f0f:
+      title: CXI_§117
+      base_file: CXI_§117.txt
+      work_id: W5C4404E8
+    75ec0584ef90430993245addf4480601:
+      title: CXI_§118
+      base_file: CXI_§118.txt
+      work_id: WCC52E8F6
+    2d6e6ebcae064839a5357d8430fd78b5:
+      title: CXI_§119
+      base_file: CXI_§119.txt
+      work_id: W1FB34AF4
+    5d68b9b9986d467d822e333ddb3fd637:
+      title: CXI_§120
+      base_file: CXI_§120.txt
+      work_id: W14A4C6C4
+    72758f35a1544a199c36129029a4bb98:
+      title: CXVI_§161
+      base_file: CXVI_§161.txt
+      work_id: W01850068
+    d0894d5291e84c9bbdfab1ce6ec8fea1:
+      title: CXVI_§162
+      base_file: CXVI_§162.txt
+      work_id: W83B888B5
+    d20789176ffa4ae38d20ccd3b0618c2c:
+      title: CXVI_§163
+      base_file: CXVI_§163.txt
+      work_id: WF07200DC
+    aa77a70abf4e43328b774d51d07374c9:
+      title: CXVI_§164
+      base_file: CXVI_§164.txt
+      work_id: W26A9C95C
+    e81254eaf084498a9b6dd9770bbb6cf6:
+      title: CXVI_§165
+      base_file: CXVI_§165.txt
+      work_id: W594406B3
+    afee4637e2aa412395229ae34e154cce:
+      title: CXVI_§166
+      base_file: CXVI_§166.txt
+      work_id: W186B309D
+    fa1eac1b6b0b477f8a71bb413ec83b10:
+      title: CXV_§151
+      base_file: CXV_§151.txt
+      work_id: WB5954456
+    9556d54a24dc4618a54af3f9139b196c:
+      title: CXV_§152
+      base_file: CXV_§152.txt
+      work_id: W190615E8
+    efe56957492240bbbd9cc0ed06054851:
+      title: CXV_§153
+      base_file: CXV_§153.txt
+      work_id: W0FB15FA4
+    f219e0112fc84fa0b7bb7768da320de1:
+      title: CXV_§154
+      base_file: CXV_§154.txt
+      work_id: WB784E89D
+    59a3ba35ff9740a3bb27489d67018798:
+      title: CXV_§155
+      base_file: CXV_§155.txt
+      work_id: WE0D7A20E
+    83fe2596503f4ba3a0321c07efcd06b5:
+      title: CXV_§156
+      base_file: CXV_§156.txt
+      work_id: W2A3DE8A6
+    59e0989eede04da7b01c417b065a3795:
+      title: CXV_§157
+      base_file: CXV_§157.txt
+      work_id: W88518421
+    8a155f008f1f4877924d61825671978d:
+      title: CXV_§158
+      base_file: CXV_§158.txt
+      work_id: WC17C41DA
+    32ed0fdefc3d44859ccbc1b9adeba38e:
+      title: CXV_§159
+      base_file: CXV_§159.txt
+      work_id: W5DB481E8
+    fa957864b0ef4d4398904f212f205c97:
+      title: CXV_§160
+      base_file: CXV_§160.txt
+      work_id: W1C9A9B9E
+    a602a55eee144bb6879067367d45a61c:
+      title: CX_§101
+      base_file: CX_§101.txt
+      work_id: W344D6FCC
+    8a8965b8835d40888d58862defbd7741:
+      title: CX_§102
+      base_file: CX_§102.txt
+      work_id: W49C181A2
+    57fb0af09b7f4fa7aef36d73d02a63f1:
+      title: CX_§103
+      base_file: CX_§103.txt
+      work_id: WAA1C94C1
+    23a96b11c1294867a517698717715f19:
+      title: CX_§104
+      base_file: CX_§104.txt
+      work_id: W46BAEE1F
+    ecc0a930da044591bfe69a25e5a1e40a:
+      title: CX_§105
+      base_file: CX_§105.txt
+      work_id: WC747F46F
+    57d3c958227d43de9f60b9927a8b25e6:
+      title: CX_§106
+      base_file: CX_§106.txt
+      work_id: W7FA8E989
+    6c0604caebe34b488475e6a0bcc33f78:
+      title: CX_§107
+      base_file: CX_§107.txt
+      work_id: W05939DD3
+    43bb7d8608ac4f8e83f8ef4e1eb029d9:
+      title: CX_§108
+      base_file: CX_§108.txt
+      work_id: W243414D1
+    d2a3a978ed994a478235782b8da204b9:
+      title: CX_§109
+      base_file: CX_§109.txt
+      work_id: WD6DAD11B
+    f85d66c88ee04aaaa5095d9d62c88eb8:
+      title: CX_§110
+      base_file: CX_§110.txt
+      work_id: W2BFA670D
+    a7f6b681bd8b43dbade24175d8b50203:
+      title: Introduction
+      base_file: Introduction.txt
+      work_id: W5457F5CA
+    63fc1f3c1e67415dad262e446d79a47a:
+      title: Title
+      base_file: Title.txt
+      work_id: WC97B3D96
+  chapter_to_tile:
+    CI: §0-10
+    CII: §11-20
+    CIII: §21-30
+    CIV: §31-40
+    CV: §41-50
+    CVI: §61-70
+    CVII: §71-80
+    CVIII: §81-90
+    CIX: §91-100
+    CX: §101-110
+    CXI: §111-120
+    CXII: §121-130
+    CXIII: §130-20
+    CXIV: §141-150
+    CXV: §151-160
+    CXVI: §161-166
+created_at: '2022-03-01T21:34:02.536612'
+last_modified_at: '2022-03-01T21:34:02.536620'
